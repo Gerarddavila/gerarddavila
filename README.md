@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Buscando cosas nuevas sobre nuevas tecnologías, desarrollo y seguridad informática.
+- 🤔 &nbsp; Buscando cosas nuevas sobre tecnología, desarrollo,seguridad informática y juegos.
 
 - 🎓 &nbsp; Estudio Maestría en Seguridad Informática.
 
