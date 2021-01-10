@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Estudio Maestría en Seguridad Informática.
 
-- ☁ &nbsp; Aprendiendo sobre e-commerce, cloud y negocios.
+- ☁ &nbsp; Aprendiendo sobre Oracle, Toad, BI , ETL , e-commerce, cloud y negocios.
 
 - 👾 &nbsp; Jugando por diversión: CoD Mobile, Fornite, Clash Royale y Clash of Clans
 
