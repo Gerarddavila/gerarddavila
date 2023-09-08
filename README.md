@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Buscando cosas nuevas sobre tecnología, desarrollo,seguridad informática y juegos.
 
-- 🎓 &nbsp; Estudio Maestría en Seguridad Informática.
+- 🎓 &nbsp; Magíster Artium en Seguridad Informática.
 
-- ☁ &nbsp; Aprendiendo todo el tiempo sobre SQL, BI, Data Science.
+- ☁ &nbsp; Aprendiendo todo el tiempo sobre SQL, BI, Data Science, Data Engineer
 
 - 👾 &nbsp; Jugando siempre CoD Mobile, Fornite, Clash Royale y Clash of Clans
 
@@ -18,9 +18,9 @@
 
 <h3>🛠 Conocimientos</h3>
 
-- 💻 &nbsp;  Java | PHP | MySQL
+- 💻 &nbsp;  Java | PHP | SQL | Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
 
 <!--
 
